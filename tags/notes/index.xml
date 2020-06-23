@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Notes - 标签 - Pour l&#39;honneur de l&#39;esprit humain.</title>
+        <link>http://feiyuxiaoThu.github.io/tags/notes/</link>
+        <description>Notes - 标签 - Pour l&#39;honneur de l&#39;esprit humain.</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 18 Oct 2018 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://feiyuxiaoThu.github.io/tags/notes/" rel="self" type="application/rss+xml" /><item>
+    <title>Course Notes-FACS</title>
+    <link>http://feiyuxiaoThu.github.io/posts/note-facscourse/</link>
+    <pubDate>Thu, 18 Oct 2018 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://feiyuxiaoThu.github.io/posts/note-facscourse/</guid>
+    <description><![CDATA[Foundamentals of Automotive Crash Safety Lecture 1 Fundamentals of Vehicle Crash Safety  impact energy absorption The kinetic energy is converted to work by deforming all the related objects Three levels of impact  First impact: between vehicle front-end structure and external objects Second impact: between occupant and restraint system/interior Third impact: between occupant’s internal organs   Crash safety  a matter of reducing the relative velocity between occupants and vehicle interior to help reduce risk of injury to occupant during a collision   Vehicle Crashworthiness  Measure of the vehicle&rsquo;s structural ability to plastically deform and yet maintain a sufficient survival space for its occupants in crashes involving loads**    Lecture 2 Vehicle Frontal Impact Response and Occupant Ride-Down]]></description>
+</item><item>
+    <title>一些课程推荐书</title>
+    <link>http://feiyuxiaoThu.github.io/posts/%E4%B8%80%E4%BA%9B%E8%AF%BE%E7%A8%8B%E6%8E%A8%E8%8D%90%E4%B9%A6/</link>
+    <pubDate>Sat, 20 May 2017 13:38:21 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://feiyuxiaoThu.github.io/posts/%E4%B8%80%E4%BA%9B%E8%AF%BE%E7%A8%8B%E6%8E%A8%E8%8D%90%E4%B9%A6/</guid>
+    <description><![CDATA[没想到我自己在从力学-热物理-物理学各种尝试后，现在又转回到力学，不过接下来可能会偏向于工程中的问题吧。最近开始系统性地学习有限元，想着可以]]></description>
+</item><item>
+    <title>量子力学讲义分享</title>
+    <link>http://feiyuxiaoThu.github.io/posts/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E8%AE%B2%E4%B9%89%E5%88%86%E4%BA%AB/</link>
+    <pubDate>Wed, 15 Feb 2017 13:38:21 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://feiyuxiaoThu.github.io/posts/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E8%AE%B2%E4%B9%89%E5%88%86%E4%BA%AB/</guid>
+    <description><![CDATA[上学期在OCW（Quantum Physics I）上看Prof. Allan Adams的量子力学（1）的课程，当时给他发邮件请他发给我他的Note,现在整理资料觉得]]></description>
+</item></channel>
+</rss>
