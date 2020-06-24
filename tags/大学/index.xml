@@ -3,7 +3,14 @@
         <title>大学 - 标签 - Pour l&#39;honneur de l&#39;esprit humain.</title>
         <link>http://feiyuxiaoThu.github.io/tags/%E5%A4%A7%E5%AD%A6/</link>
         <description>大学 - 标签 - Pour l&#39;honneur de l&#39;esprit humain.</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 20 Apr 2019 20:50:43 &#43;0800</lastBuildDate><atom:link href="http://feiyuxiaoThu.github.io/tags/%E5%A4%A7%E5%AD%A6/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 05 May 2019 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://feiyuxiaoThu.github.io/tags/%E5%A4%A7%E5%AD%A6/" rel="self" type="application/rss+xml" /><item>
+    <title>如何理解系统的可观测性</title>
+    <link>http://feiyuxiaoThu.github.io/posts/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/</link>
+    <pubDate>Sun, 05 May 2019 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://feiyuxiaoThu.github.io/posts/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/</guid>
+    <description><![CDATA[系统的可观测性的定义为： 对于系统 在有限的时间区间里 内，对应初态 ，有 则称为不可观测状态，如果不存在这样的不可观测状态，那么系统完全可观测。 这个]]></description>
+</item><item>
     <title>也谈清华学分绩改革和大类招生</title>
     <link>http://feiyuxiaoThu.github.io/posts/%E4%B9%9F%E8%B0%88%E6%B8%85%E5%8D%8E%E5%AD%A6%E5%88%86%E7%BB%A9%E6%94%B9%E9%9D%A9%E5%92%8C%E5%A4%A7%E7%B1%BB%E6%8B%9B%E7%94%9F/</link>
     <pubDate>Sat, 20 Apr 2019 20:50:43 &#43;0800</pubDate>
@@ -11,11 +18,25 @@
     <guid>http://feiyuxiaoThu.github.io/posts/%E4%B9%9F%E8%B0%88%E6%B8%85%E5%8D%8E%E5%AD%A6%E5%88%86%E7%BB%A9%E6%94%B9%E9%9D%A9%E5%92%8C%E5%A4%A7%E7%B1%BB%E6%8B%9B%E7%94%9F/</guid>
     <description><![CDATA[一篇清青时报的名为《深度|谁动了我的GPA》一文在发出一小时被迅速删稿，引起了关于此事的不仅仅于清华学生的广泛谈论，彼时，看着这个问题下 如何]]></description>
 </item><item>
+    <title>在清华大学钱学森力学班就读是怎样的体验</title>
+    <link>http://feiyuxiaoThu.github.io/posts/%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E9%92%B1%E5%AD%A6%E6%A3%AE%E5%8A%9B%E5%AD%A6%E7%8F%AD%E5%B0%B1%E8%AF%BB%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C/</link>
+    <pubDate>Sat, 29 Dec 2018 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://feiyuxiaoThu.github.io/posts/%E5%9C%A8%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E9%92%B1%E5%AD%A6%E6%A3%AE%E5%8A%9B%E5%AD%A6%E7%8F%AD%E5%B0%B1%E8%AF%BB%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C/</guid>
+    <description><![CDATA[@Riinn教主貌似很久以前邀请我回答这个问题，一直觉得自己在钱班被各种虐菜，战战兢兢不敢回答，今天鼓起勇气和老板讲了我自己对未来的规划，现]]></description>
+</item><item>
     <title>也谈清华特奖</title>
     <link>http://feiyuxiaoThu.github.io/posts/%E4%B9%9F%E8%B0%88%E6%B8%85%E5%8D%8E%E7%89%B9%E5%A5%96/</link>
     <pubDate>Mon, 24 Dec 2018 20:50:43 &#43;0800</pubDate>
     <author>作者</author>
     <guid>http://feiyuxiaoThu.github.io/posts/%E4%B9%9F%E8%B0%88%E6%B8%85%E5%8D%8E%E7%89%B9%E5%A5%96/</guid>
     <description><![CDATA[记得18年的特奖答辩前，就不知道是第几次，传出了清华在某某排名上雄踞第一的消息，而在八字班入学伊始，学校也大力加大了对于学术不端的惩治，无论]]></description>
+</item><item>
+    <title>从很差的高中考上北大清华是一种怎样的体验</title>
+    <link>http://feiyuxiaoThu.github.io/posts/%E4%BB%8E%E5%BE%88%E5%B7%AE%E7%9A%84%E9%AB%98%E4%B8%AD%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E6%B8%85%E5%8D%8E%E6%98%AF%E4%B8%80%E7%A7%8D%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C/</link>
+    <pubDate>Sat, 03 Jun 2017 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://feiyuxiaoThu.github.io/posts/%E4%BB%8E%E5%BE%88%E5%B7%AE%E7%9A%84%E9%AB%98%E4%B8%AD%E8%80%83%E4%B8%8A%E5%8C%97%E5%A4%A7%E6%B8%85%E5%8D%8E%E6%98%AF%E4%B8%80%E7%A7%8D%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C/</guid>
+    <description><![CDATA[今天在首页上看到这个问题，想着几天后要高考了，想大概回答一下这个问题。 我来自陕西汉中勉县第一中学，属于绝对的那种小县城的高中，在我高考的前几]]></description>
 </item></channel>
 </rss>
