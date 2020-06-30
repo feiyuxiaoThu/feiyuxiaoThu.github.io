@@ -3,9 +3,16 @@
         <title>Pour l&#39;honneur de l&#39;esprit humain.</title>
         <link>http://feiyuxiaoThu.github.io/</link>
         <description>Pour l&#39;honneur de l&#39;esprit humain.</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 10 Jun 2020 23:38:21 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="http://feiyuxiaoThu.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>远程Linux服务器使用</title>
+    <link>http://feiyuxiaoThu.github.io/posts/%E8%BF%9C%E7%A8%8Blinux%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BD%BF%E7%94%A8/</link>
+    <pubDate>Tue, 30 Jun 2020 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://feiyuxiaoThu.github.io/posts/%E8%BF%9C%E7%A8%8Blinux%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BD%BF%E7%94%A8/</guid>
+    <description><![CDATA[最近要开始做一个关于 NLP 的项目 Github Organization，项目方给我们提供了服务器远程访问，仔细想来也是我第一次真正完全使用无界面的 Linux (WSL]]></description>
+</item><item>
     <title>电动化搅动一池春水</title>
     <link>http://feiyuxiaoThu.github.io/posts/%E7%94%B5%E5%8A%A8%E5%8C%96%E6%90%85%E5%8A%A8%E4%B8%80%E6%B1%A0%E6%98%A5%E6%B0%B4%E6%88%91%E7%9C%8B%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%83%E5%B1%85%E5%B8%82%E5%80%BC%E7%AC%AC%E4%B8%80/</link>
     <pubDate>Wed, 10 Jun 2020 23:38:21 &#43;0800</pubDate>
@@ -68,12 +75,5 @@
     <author>作者</author>
     <guid>http://feiyuxiaoThu.github.io/posts/911%E5%8F%8C%E5%AD%90%E5%A1%94%E5%A6%82%E4%BD%95%E5%80%92%E5%A1%8C/</guid>
     <description><![CDATA[我导师在911发生时恰好在美国交通部工作，随之参与了事故的一部分调查。同时我导师的博士导师MIT的T. Wierzbicki教授以及余同希教授]]></description>
-</item><item>
-    <title>小记丰田暑期实习</title>
-    <link>http://feiyuxiaoThu.github.io/posts/%E5%B0%8F%E8%AE%B0%E4%B8%B0%E7%94%B0%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0/</link>
-    <pubDate>Mon, 12 Aug 2019 14:35:24 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>http://feiyuxiaoThu.github.io/posts/%E5%B0%8F%E8%AE%B0%E4%B8%B0%E7%94%B0%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0/</guid>
-    <description><![CDATA[本文为记录我于今年7月到8月在日本爱知县丰田市丰田研发中心一个多月的实习感想和经历，此为第一篇。 望着他们的背影从永田町地铁站入口的台阶渐渐隐]]></description>
 </item></channel>
 </rss>
