@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>hugo - 标签 - Pour l&#39;honneur de l&#39;esprit humain.</title>
+        <link>http://feiyuxiaoThu.github.io/tags/hugo/</link>
+        <description>hugo - 标签 - Pour l&#39;honneur de l&#39;esprit humain.</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Jul 2020 09:11:25 &#43;0800</lastBuildDate><atom:link href="http://feiyuxiaoThu.github.io/tags/hugo/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo博客写作指南</title>
+    <link>http://feiyuxiaoThu.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97/</link>
+    <pubDate>Wed, 01 Jul 2020 09:11:25 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://feiyuxiaoThu.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97/</guid>
+    <description><![CDATA[自从博客从 Hexo 迁移到 Hugo 之后，购买了个人域名 xiaofy.top ，基本上也是经常更新，也逐渐形成了个人博客更新写作的整个工具链。 如果是本地只写作博客的话，我使用 Typora]]></description>
+</item></channel>
+</rss>

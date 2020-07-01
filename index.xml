@@ -3,12 +3,19 @@
         <title>Pour l&#39;honneur de l&#39;esprit humain.</title>
         <link>http://feiyuxiaoThu.github.io/</link>
         <description>Pour l&#39;honneur de l&#39;esprit humain.</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 01 Jul 2020 09:11:25 &#43;0800</lastBuildDate>
             <atom:link href="http://feiyuxiaoThu.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Hugo博客写作指南</title>
+    <link>http://feiyuxiaoThu.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97/</link>
+    <pubDate>Wed, 01 Jul 2020 09:11:25 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://feiyuxiaoThu.github.io/posts/hugo%E5%8D%9A%E5%AE%A2%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97/</guid>
+    <description><![CDATA[自从博客从 Hexo 迁移到 Hugo 之后，购买了个人域名 xiaofy.top ，基本上也是经常更新，也逐渐形成了个人博客更新写作的整个工具链。 如果是本地只写作博客的话，我使用 Typora]]></description>
+</item><item>
     <title>谈谈KMT和“九二共识&#34;</title>
     <link>http://feiyuxiaoThu.github.io/posts/%E8%B0%88%E8%B0%88kmt%E5%92%8C%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AF%86/</link>
-    <pubDate>Wed, 01 Jul 2020 00:00:00 &#43;0000</pubDate>
+    <pubDate>Wed, 01 Jul 2020 09:00:25 &#43;0800</pubDate>
     <author>作者</author>
     <guid>http://feiyuxiaoThu.github.io/posts/%E8%B0%88%E8%B0%88kmt%E5%92%8C%E4%B9%9D%E4%BA%8C%E5%85%B1%E8%AF%86/</guid>
     <description><![CDATA[近来随着高雄市长韩国瑜被罢免，陈其迈“回锅”高雄市长，国民党新任党主席江启臣抛出“无须坚持&rsquo;九二共识&rsquo;”的论调，一时]]></description>
@@ -68,12 +75,5 @@
     <author>作者</author>
     <guid>http://feiyuxiaoThu.github.io/posts/%E6%B8%85%E5%8D%8E%E6%8E%A8%E7%A0%94%E5%AF%BC%E5%B8%88%E9%80%89%E6%8B%A9%E4%B9%8B%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%8C%87%E5%8D%97/</guid>
     <description><![CDATA[昨天 @到处挖坑蒋玉成 关于这个问题如何看待湖南科技大学本科生任德敏连发 10 篇 SCI 一作？发表了一篇文章毁人不倦，其中这样一句话 让一个本科生连续发七八]]></description>
-</item><item>
-    <title>我眼中的丰田汽车公司</title>
-    <link>http://feiyuxiaoThu.github.io/posts/%E6%88%91%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B8%B0%E7%94%B0%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8/</link>
-    <pubDate>Mon, 19 Aug 2019 14:35:24 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>http://feiyuxiaoThu.github.io/posts/%E6%88%91%E7%9C%BC%E4%B8%AD%E7%9A%84%E4%B8%B0%E7%94%B0%E6%B1%BD%E8%BD%A6%E5%85%AC%E5%8F%B8/</guid>
-    <description><![CDATA[在上一篇文章 肖飞宇：小记丰田暑期实习 中，我写到 感谢丰田让我能有如此珍贵的机会，让我能在短短一个月里由表及里、由浅入深去领略到一个工业巨擘的侧]]></description>
 </item></channel>
 </rss>
