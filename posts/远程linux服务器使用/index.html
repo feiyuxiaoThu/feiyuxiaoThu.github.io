@@ -134,7 +134,7 @@
 <p>首先我发现 Cuda 是装好的（不然我基本上装不了 Pytorch），装 Pytorch 最大的坑就是版本的问题，我这个 Cuda 是10.0，在国内的阿里源还是科大源都找不到对应的，还是最后使用默认的源下载了，幸好速度还不错。</p>
 <h2 id="接下来计划">接下来计划</h2>
 <p>有一个比较好的习惯是在 Conda 创建一个虚拟环境，然后在里面配置框架做自己的事情：</p>
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">conda creat -n xx <span class="nv">python</span> <span class="o">=</span> 3.x <span class="c1"># 创建xx虚拟环境</span>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">conda create -n xx <span class="nv">python</span> <span class="o">=</span> 3.x <span class="c1"># 创建xx虚拟环境</span>
 conda activate xx <span class="c1"># 激活</span>
 conda deactivate <span class="c1"># 关闭</span>
 </code></pre></div><p>接下来几天就准备跑一跑小型的 Bert 模型的 case ，然后学习下 Bert 框架的代码和其应用的方法。</p>
