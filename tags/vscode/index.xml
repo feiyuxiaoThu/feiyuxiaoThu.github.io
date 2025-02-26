@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Vscode - Tag - My New Hugo Site</title><link>http://example.org/tags/vscode/</link><description>Vscode - Tag - My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/vscode/" rel="self" type="application/rss+xml"/><item><title>远程Linux服务器使用</title><link>http://example.org/%E8%BF%9C%E7%A8%8Blinux%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BD%BF%E7%94%A8/</link><pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate><author>xxxx</author><guid>http://example.org/%E8%BF%9C%E7%A8%8Blinux%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BD%BF%E7%94%A8/</guid><description><![CDATA[<p>最近要开始做一个关于 NLP 的项目 <a href="https://github.com/BigDataPractice2020" target="_blank" rel="noopener noreffer ">Github Organization</a>，项目方给我们提供了服务器远程访问，仔细想来也是我第一次真正完全使用无界面的 Linux (WSL也算？之前用的比较多的还是 Ubuntu 装在虚拟机里面)，记录一些有趣的点。</p>
+<p>访问是挂了 VPN 之后使用 Xshell ssh 方式访问，我进去一看是个空服务器，于是我先配置了 Anaconda 和 Pytorch ，Anaconda 装倒是没啥问题，倒是现在 Pip 都要使用 &ndash;user 选项。</p>
+<h2 id="配置-vscode-remote">配置 Vscode remote</h2>
+<p></p>
+<p>主要参考 <a href="https://www.cnblogs.com/WindSun/p/12142621.html" target="_blank" rel="noopener noreffer ">用VSCode的Remote-SSH连接Linux进行远程开发</a> 一文，后来发现我们没有 root 权限，就暂且搁置了和那边沟通让他们先试一试。我倒是顺便试了一试连电脑上的 WSL 和 Ubuntu 的虚拟机，感觉 Vscode 的 这个 Remote 插件确实是很好用，准备回头在 WSL 里面把 Texlive 2020 配置一下。</p>
+<p>还有一点就是可以很方便的使用 WinSCP 在服务器和本地主机之间共享文件，还支持远程编辑，使得没有 Root 权限的我们使用就更加便利。</p>
+<h2 id="安装-pytorch">安装 Pytorch</h2>
+<p>首先我发现 Cuda 是装好的（不然我基本上装不了 Pytorch），装 Pytorch 最大的坑就是版本的问题，我这个 Cuda 是10.0，在国内的阿里源还是科大源都找不到对应的，还是最后使用默认的源下载了，幸好速度还不错。</p>]]></description></item></channel></rss>

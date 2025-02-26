@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>知识 - Category - My New Hugo Site</title><link>http://example.org/categories/%E7%9F%A5%E8%AF%86/</link><description>知识 - Category - My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 05 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/%E7%9F%A5%E8%AF%86/" rel="self" type="application/rss+xml"/><item><title>如何理解系统的可观测性</title><link>http://example.org/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/</link><pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate><author>xxxx</author><guid>http://example.org/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/</guid><description><![CDATA[<p>系统的可观测性的定义为：</p>
+<p>对于系统  在有限的时间区间里  内，对应初态  ，有</p>
+<p> 则称为不可观测状态，如果不存在这样的不可观测状态，那么系统完全可观测。</p>
+<p>这个定义说的非常的抽象，但是可观测性这个概念最重要的是其在 状态观测器(state observer)的设计中发挥了关键作用，下面我就从这个角度进行一些对于状态可观性的介绍。</p>
+<hr>
+<p>其实，状态可观性的概念是出自于卡尔曼，而著名的Kalman filter也实质上是state estimator for stochastic system[<a href="https://www.zhihu.com/people/feiyuxiaoTHU/answers/by_votes?page=2#ref_1" target="_blank" rel="noopener noreffer ">1]</a>。</p>
+<p>对于系统进行控制，首先我们需要确定要进行的控制的类型，一般而言，控制分为基于状态变量的控制和基于输出的控制，这其中最好的当然是状态控制，但是我们往往只有输出和输入，而难以直接得到系统的状态变量，这个时候就需要从前面所说的输出和输入还原出系统的状态变量，这就是所谓的状态观测[<a href="https://www.zhihu.com/people/feiyuxiaoTHU/answers/by_votes?page=2#ref_2" target="_blank" rel="noopener noreffer ">2]</a>。</p>
+<p>状态反馈和输出反馈</p>
+<p>典型状态观测器结构</p>]]></description></item></channel></rss>

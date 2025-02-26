@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>科研 - Category - My New Hugo Site</title><link>http://example.org/categories/%E7%A7%91%E7%A0%94/</link><description>科研 - Category - My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/categories/%E7%A7%91%E7%A0%94/" rel="self" type="application/rss+xml"/><item><title>911双子塔如何倒塌</title><link>http://example.org/911%E5%8F%8C%E5%AD%90%E5%A1%94%E5%A6%82%E4%BD%95%E5%80%92%E5%A1%8C/</link><pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate><author>xxxx</author><guid>http://example.org/911%E5%8F%8C%E5%AD%90%E5%A1%94%E5%A6%82%E4%BD%95%E5%80%92%E5%A1%8C/</guid><description><![CDATA[<blockquote>
+<p>我导师在911发生时恰好在美国交通部工作，随之参与了事故的一部分调查。同时我导师的博士导师MIT的T. Wierzbicki教授以及余同希教授当时对于这个话题有深入的分析和研究，两位教授后来发表了一篇文章在<em>International Journal of Impact Engineering</em>上，后来余老师又翻译其中的一部分内容发表在《力学与实践》上。
+关于当天还有一个非常有趣的小故事：911当天我导师约了Wierzbicki教授和余同希老师在MIT讨论，结果到了办公室发现Wierzbicki教授居然不在，因为之前从来没有教授的迟到记录，过了半个小时，Wierzbicki教授打电话过来说&quot;Turn on the TV”说他在家里看世贸双子塔的报道，会面延后。结果最后会面上三人一拍即合着力研究高楼的冲击动力学机制，所以才有了后面的两篇论文</p></blockquote>
+<p>这个问题问的非常好，但是首先要强调两点：</p>
+<ol>
+<li>题主问“在短时间”的燃烧之后就倒塌了，其实隐含了一个非常有趣的关键信息，双子塔并不是在飞机撞上之后立即倒塌的，一般大家都会认为飞机的撞击载荷是一个非常大的载荷，但是其实不尽然。</li>
+<li>对于世贸双子塔而言，其倒塌是逐层倒塌的，而实际上并不是说这个过程是不可抑制的，因为我们都知道在冲击载荷下材料会发生塑性变形是可以耗散能量的，而为什么世贸双子塔的倒塌过程是一个不可逆的过程呢？</li>
+</ol>
+<p>关于飞机的撞击本身到底造成了多大影响，可以从力和能量两个方面进行剖析，根据文献中的计算得到的结论：</p>
+<blockquote>
+<p>The energy absorbed by plastic deformation and fracture of the ill-fated column is only 6.7% of the initial kinetic energy of the wing.</p></blockquote>
+<p>也就是说，当时撞击中大楼所吸收的能量非常的小，只有机翼动能的 <em>6.7%</em></p>
+<p>另外，根据估计撞击速度应该为 500km/h,而按照考虑到大量燃油没有使用飞机的重量约为160t，其动能在  。而撞入北楼的飞机在楼宽  的距离中被截停，其平均减速度为  ，所以平均的撞击力 </p>]]></description></item></channel></rss>

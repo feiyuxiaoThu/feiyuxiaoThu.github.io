@@ -1,0 +1,67 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Notes - Tag - My New Hugo Site</title><link>http://example.org/tags/notes/</link><description>Notes - Tag - My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/tags/notes/" rel="self" type="application/rss+xml"/><item><title>911双子塔如何倒塌</title><link>http://example.org/911%E5%8F%8C%E5%AD%90%E5%A1%94%E5%A6%82%E4%BD%95%E5%80%92%E5%A1%8C/</link><pubDate>Mon, 19 Aug 2019 00:00:00 +0000</pubDate><author>xxxx</author><guid>http://example.org/911%E5%8F%8C%E5%AD%90%E5%A1%94%E5%A6%82%E4%BD%95%E5%80%92%E5%A1%8C/</guid><description><![CDATA[<blockquote>
+<p>我导师在911发生时恰好在美国交通部工作，随之参与了事故的一部分调查。同时我导师的博士导师MIT的T. Wierzbicki教授以及余同希教授当时对于这个话题有深入的分析和研究，两位教授后来发表了一篇文章在<em>International Journal of Impact Engineering</em>上，后来余老师又翻译其中的一部分内容发表在《力学与实践》上。
+关于当天还有一个非常有趣的小故事：911当天我导师约了Wierzbicki教授和余同希老师在MIT讨论，结果到了办公室发现Wierzbicki教授居然不在，因为之前从来没有教授的迟到记录，过了半个小时，Wierzbicki教授打电话过来说&quot;Turn on the TV”说他在家里看世贸双子塔的报道，会面延后。结果最后会面上三人一拍即合着力研究高楼的冲击动力学机制，所以才有了后面的两篇论文</p></blockquote>
+<p>这个问题问的非常好，但是首先要强调两点：</p>
+<ol>
+<li>题主问“在短时间”的燃烧之后就倒塌了，其实隐含了一个非常有趣的关键信息，双子塔并不是在飞机撞上之后立即倒塌的，一般大家都会认为飞机的撞击载荷是一个非常大的载荷，但是其实不尽然。</li>
+<li>对于世贸双子塔而言，其倒塌是逐层倒塌的，而实际上并不是说这个过程是不可抑制的，因为我们都知道在冲击载荷下材料会发生塑性变形是可以耗散能量的，而为什么世贸双子塔的倒塌过程是一个不可逆的过程呢？</li>
+</ol>
+<p>关于飞机的撞击本身到底造成了多大影响，可以从力和能量两个方面进行剖析，根据文献中的计算得到的结论：</p>
+<blockquote>
+<p>The energy absorbed by plastic deformation and fracture of the ill-fated column is only 6.7% of the initial kinetic energy of the wing.</p></blockquote>
+<p>也就是说，当时撞击中大楼所吸收的能量非常的小，只有机翼动能的 <em>6.7%</em></p>
+<p>另外，根据估计撞击速度应该为 500km/h,而按照考虑到大量燃油没有使用飞机的重量约为160t，其动能在  。而撞入北楼的飞机在楼宽  的距离中被截停，其平均减速度为  ，所以平均的撞击力 </p>]]></description></item><item><title>如何理解系统的可观测性</title><link>http://example.org/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/</link><pubDate>Sun, 05 May 2019 00:00:00 +0000</pubDate><author>xxxx</author><guid>http://example.org/%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%80%A7/</guid><description><![CDATA[<p>系统的可观测性的定义为：</p>
+<p>对于系统  在有限的时间区间里  内，对应初态  ，有</p>
+<p> 则称为不可观测状态，如果不存在这样的不可观测状态，那么系统完全可观测。</p>
+<p>这个定义说的非常的抽象，但是可观测性这个概念最重要的是其在 状态观测器(state observer)的设计中发挥了关键作用，下面我就从这个角度进行一些对于状态可观性的介绍。</p>
+<hr>
+<p>其实，状态可观性的概念是出自于卡尔曼，而著名的Kalman filter也实质上是state estimator for stochastic system[<a href="https://www.zhihu.com/people/feiyuxiaoTHU/answers/by_votes?page=2#ref_1" target="_blank" rel="noopener noreffer ">1]</a>。</p>
+<p>对于系统进行控制，首先我们需要确定要进行的控制的类型，一般而言，控制分为基于状态变量的控制和基于输出的控制，这其中最好的当然是状态控制，但是我们往往只有输出和输入，而难以直接得到系统的状态变量，这个时候就需要从前面所说的输出和输入还原出系统的状态变量，这就是所谓的状态观测[<a href="https://www.zhihu.com/people/feiyuxiaoTHU/answers/by_votes?page=2#ref_2" target="_blank" rel="noopener noreffer ">2]</a>。</p>
+<p>状态反馈和输出反馈</p>
+<p>典型状态观测器结构</p>]]></description></item><item><title>Course Notes-FACS</title><link>http://example.org/note-facscourse/</link><pubDate>Thu, 18 Oct 2018 00:00:00 +0000</pubDate><author>xxxx</author><guid>http://example.org/note-facscourse/</guid><description><![CDATA[<h1 id="foundamentals-of-automotive-crash-safety">Foundamentals of Automotive Crash Safety</h1>
+<h2 id="lecture-1-fundamentals-of-vehicle-crash-safety">Lecture 1 Fundamentals of Vehicle Crash Safety</h2>
+<ul>
+<li><strong>impact energy absorption</strong> The kinetic energy is converted to work by deforming all the related objects</li>
+<li>Three levels of impact
+<ul>
+<li>First impact: between vehicle front-end structure and external objects</li>
+<li>Second impact: between occupant and restraint system/interior</li>
+<li>Third impact: between occupant’s internal organs</li>
+</ul>
+</li>
+<li>Crash safety
+<ul>
+<li>a matter of reducing the <strong>relative velocity</strong> between occupants and vehicle interior to help reduce risk of injury to occupant during a collision</li>
+</ul>
+</li>
+<li><strong>Vehicle Crashworthiness</strong>
+<ul>
+<li>Measure of the vehicle&rsquo;s structural ability to <strong>plastically deform</strong> and yet maintain a <strong>sufficient survival space</strong> for its occupants in crashes involving  loads**</li>
+</ul>
+</li>
+</ul>
+<h2 id="lecture-2-vehicle-frontal-impact-response-and">Lecture 2 Vehicle Frontal Impact Response and</h2>
+<p>Occupant Ride-Down</p>]]></description></item><item><title>一些课程推荐书</title><link>http://example.org/%E4%B8%80%E4%BA%9B%E8%AF%BE%E7%A8%8B%E6%8E%A8%E8%8D%90%E4%B9%A6/</link><pubDate>Sat, 20 May 2017 13:38:21 +0800</pubDate><author>xxxx</author><guid>http://example.org/%E4%B8%80%E4%BA%9B%E8%AF%BE%E7%A8%8B%E6%8E%A8%E8%8D%90%E4%B9%A6/</guid><description><![CDATA[<p>没想到我自己在从力学-热物理-物理学各种尝试后，现在又转回到力学，不过接下来可能会偏向于工程中的问题吧。最近开始系统性地学习有限元，想着可以把自己之前看过的一些各个学科的一些书列一个书单，写几句读完的感受，也算是一个总结，希望自己以后还能继续往这个名单里面添加。
+首先，我数学不怎么好，所以就选几本我觉得写得很好的教材吧：</p>
+<p>1.Linear Algebra</p>
+<p>我觉得最好的教材应该就是Introduction to Linear Algebra （Gilbert Strang），我第一次学代数学的是姚慕生的《高等代数》，那本写得的确不错，很多做法很精巧，不过我还是觉得Strang老爷子的书写得最好，当然老爷子的书配套他的公开课学习也很好（我记得网易公开课是做了全部视频的字幕的）</p>
+<p>2.Mathematical analysis</p>
+<p>郑建华老师上课用的教材是中科大出的那本 数学分析教程 ，当然还推荐了卓里奇和菲赫金哥尔茨 ，卓里奇我至今没怎么看（没怎么花时间去啃），后者倒是大致看过，觉得的确方法上讲的很详细。中科大那本特别推荐习题，当时我们一直都是做后面的习题，最后也大概明白所谓的&quot;Do the exercise&quot;是什么意思了。</p>
+<p>3.Probability</p>
+<p>概率论我们那个老师我上课基本不知道他在讲啥，所以基本靠自学，我觉得这本书还不错 概率论和数理统计</p>
+<p>概率这块我觉得我学的还是很少，准备以后有空补一补，读一读英文的著作。</p>
+<p>4.其他</p>
+<p>感觉学的数学课远远不够，比如实分析，泛函分析也没有学过。其他的课程诸如数学物理方程和复变函数我们用的是北大那本数学物理方法 ，我倒是看过希尔伯特那本的几章，觉得的确很深刻。还学过数值分析，不过这里面更多的算是具体的处理方法，所以应该大概不能算数学的基础课吧。</p>
+<p>5.Mechanics</p>
+<p>力学首先讲理论力学，这个我首推 理论力学（马尔挈夫） ，这也是我们的理论力学老师李俊峰老师翻译的（题图就是这本书和李老师家的狗），这本给我的感觉是很精炼但是讲的很清楚，特别是涉及到后面的复杂刚体运动和稳定性理论，一般的理论力学书是不会讲到的。对了，李老师还翻译了朗道那本《力学》，我觉得对于理解最小作用量原理等重要的概念还是可以一看的。</p>
+<p>再讲材料力学，材料力学（范钦珊）这本写得很不错，我觉得基本满足要求了，对了还有一本英文的很厚的书，Beer ,里面很详细，而且例子很多，对于材料力学的话，我觉得就是理解基本概念和多多练习。</p>
+<p>再者，弹性力学，清华出的那本弹性理论基础 写得很好读，而且我觉得也足够，如果想看板壳理论，可以去看朗道。当然，我学弹性力学主要是冯西桥老师，自己的水平本来就很好，又是断裂力学的专家，所以弹性力学打的基础就比较好。</p>
+<p>最后，流体力学，我们用的是清华出的流体力学，这本也是很基础，习题也很不错，要是觉得这本数学不够，可以去看吴望一老师的那本 流体力学 。我觉得流体的基本经典的英文书可读性都不是很好，可能有些年代久远的原因。最后顺便说一些，计算流体力学我觉得还是挺有意思的，学完流体力学就可以上手，入门就读安德森那本计算流体力学入门</p>
+<p>6.Physics</p>
+<p>当时在想，自己额外看的书应该看物理还是计算机，最后还是去看了一些物理书，我想大概研究生的时候会来看一些计算机的书吧（惠说应该也看一些金融的书）。</p>
+<p>首先，我觉得赵凯华老师的新概念物理的全套就很不错，至少力学卷写得相当好。费恩曼我觉得不适合做第一次学的教材，学完一遍回来读比较有意思。</p>
+<p>四大力学里面我大概算学过分析力学，不过没学过电动，我最喜欢的是量子和统计。量子的话，其实早一些就可以看 Griffiths ,推导和详细我觉得看Shankar， 然后角动量听物理系的同学说推荐看Sakurai(我还没看)，对了 Dirac 那本实在应该看看。后续的之类量子场论我没看过，但愿以后可以能有所涉及吧。</p>
+<p>再说我最最喜欢的统计，首先看统计前，读一下 Callen 的热力学，体验下经典的公理化热力学的推导和概念，我觉得还是很有趣的，还可以和统计做一个对比。统计的书和note也是很多，如果是平衡态也就是传统的统计物理的话，我推荐huang(黄克孙，MIT教授，刚刚去世)的教材，然后还有朗道的那本《统计物理学》，这本据说是朗道理论物理教程里面评价很高的了。非平衡态的我也看过，不过很杂就不列出来了。</p>
+<p>最后我很喜欢David Tong 的一些note,大家感兴趣可以看一看（<a href="http://www.damtp.cam.ac.uk/user/tong/teaching.html" target="_blank" rel="noopener noreffer ">David Tong</a>）。</p>]]></description></item><item><title>量子力学讲义分享</title><link>http://example.org/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E8%AE%B2%E4%B9%89%E5%88%86%E4%BA%AB/</link><pubDate>Wed, 15 Feb 2017 13:38:21 +0800</pubDate><author>xxxx</author><guid>http://example.org/%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E8%AE%B2%E4%B9%89%E5%88%86%E4%BA%AB/</guid><description><![CDATA[<p>上学期在OCW（Quantum Physics I）上看Prof. Allan Adams的量子力学（1）的课程，当时给他发邮件请他发给我他的Note,现在整理资料觉得可以分享出来，Allan Adams的课讲的很不错，即使把我在清华上的一些我觉得很不错的课算进来，也还是很不错的。</p>
+<p>百度网盘：<a href="https://pan.baidu.com/share/init?surl=qY30JdM" target="_blank" rel="noopener noreffer ">链接</a></p>
+<p>密码：obid</p>]]></description></item></channel></rss>
