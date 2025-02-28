@@ -1,8 +1,8 @@
 ---
 title: cs61c intro
 tags:
-  - "#cs61c"
-  - "#RISC-V"
+  - "cs61c"
+  - "RISC-V"
 categories: dairy
 date: " 2025-01-24T10:57:06+08:00 "
 modify: " 2025-01-24T10:57:06+08:00 "

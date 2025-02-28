@@ -7,7 +7,7 @@ icon: /fontawesome/solid/face-smile-wink
 === "中文"
     邦邦咔邦！野生的TendouRisu出现了！🥳
 
-    我是THU的自动化专业的本科生（~~虽然水平还很菜，但是我会努力的！~~），目前感兴趣的方向是强化学习，具身智能，以及大模型。我喜欢记录自己的学习经验和思考。如果感兴趣，可以看看我的[知乎](https://www.zhihu.com/people/TendouRisu)，也许会找到一些对你有帮助的内容。😊
+    我是THU的自动化专业的本科生（~~ 虽然水平还很菜，但是我会努力的！~~），目前感兴趣的方向是强化学习，具身智能，以及大模型。我喜欢记录自己的学习经验和思考。如果感兴趣，可以看看我的[知乎](https://www.zhihu.com/people/TendouRisu)，也许会找到一些对你有帮助的内容。😊
 
     ---
 
@@ -25,12 +25,12 @@ icon: /fontawesome/solid/face-smile-wink
 
     我平时喜欢
     - 听音乐（以JPOP与ボーカロイド为主，~~[周榜](https://space.bilibili.com/12446725)每周必看~~）👍
-    - 追~~新番~~老番📺
-    - 看漫画（重度Yuri控，与yuri有关的插画，漫画都会有所关注，当然也欢迎向我推荐~~误~~）！😋
+    - 追~~ 新番 ~~老番📺
+    - 看漫画（重度Yuri控，与yuri有关的插画，漫画都会有所关注，当然也欢迎向我推荐~~ 误 ~~）！😋
 
     ---
 
-    至于我的名字“Tendourisu”，来自于游戏“碧蓝档案”中的[天童爱丽丝(https://zh.moegirl.org.cn/zh-hans/%E5%A4%A9%E7%AB%A5%E7%88%B1%E4%B8%BD%E4%B8%9D)]的罗马音“Tendou Arisu”，~~但github上的名字已经被占用了，于是我删掉了一个A~~。拥有/创造一个形如爱丽丝一样的人形机器人是我的梦想。以及本站的icon也来自于al1s与kei（~~没错这里也有yuri~~）的光环的渐变融合。
+    至于我的名字“Tendourisu”，来自于游戏“碧蓝档案”中的[天童爱丽丝](https://zh.moegirl.org.cn/zh-hans/%E5%A4%A9%E7%AB%A5%E7%88%B1%E4%B8%BD%E4%B8%9D)]的罗马音“Tendou Arisu”，~~但github上的名字已经被占用了，于是我删掉了一个A~~。拥有/创造一个形如爱丽丝一样的人形机器人是我的梦想。以及本站的icon也来自于al1s与kei（~~没错这里也有yuri~~）的光环的渐变融合。
 
 === "English"
 
