@@ -1,7 +1,6 @@
-# Welcome to Kinnari's Site! 🎉
+# Welcome to Tendourisu's Site! 🎉
 
-- See <https://kinnariyamamatanha.github.io/> for more.
-- See <https://kinnariyamamatanha.github.io/about/> for more about me.
-- See <https://kinnariyamamatanha.github.io/academy/> for more about my academy info.
+- See <https://tendourisu.github.io/> for more.
 
+> this repo is forked from <https://kinnariyamamatanha.github.io/>
 > You may modify this repo to build your own site! 🥳

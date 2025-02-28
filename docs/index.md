@@ -13,19 +13,19 @@ icon: material/home
 
 <h1 style="text-align: center;">
 <span style="font-size:50px;">
-Welcome to Kinnari's Site! 🎉
+Welcome to Tendourisu's Site! 🎉
 </span>
 </h1>
 
 <span style="display: block; text-align: center; font-size: 18px;">
-[:octicons-link-16: My frineds!](./links/index.md) / [:octicons-info-16: About Me](./about/index.md) / [:academicons-google-scholar: Academic Page](./academy.md) / [:material-chart-line: Statistics](javascript:toggle_statistics();)
+[:octicons-link-16: My frineds!](./links/index.md) / [:octicons-info-16: About Me](./about/index.md) / [:material-chart-line: Statistics](javascript:toggle_statistics();)
 </span>
 
 <div id="statistics" markdown="1" class="card" style="width: 27em; border-color: transparent; opacity: 0; margin-left: auto; margin-right: 0; font-size: 110%">
 <div style="padding-left: 1em;" markdown="1">
 <li>Website Operating Time: <span id="web-time"></span></li>
-<li>Total Visitors: <span id="busuanzi_value_site_uv"></span> people</li>
-<li>Total Visits: <span id="busuanzi_value_site_pv"></span> times</li>
+<li>Total Visitors: <span id="vercount_value_site_uv"></span> people</li>
+<li>Total Visits: <span id="vercount_value_site_pv"></span> times</li>
 </div>
 </div>
 
@@ -59,3 +59,5 @@ function toggle_statistics() {
     }
 }
 </script>
+
+<script defer src="https://cn.vercount.one/js"></script>

@@ -1,10 +1,10 @@
-site_name: Kinnari's Site
-site_author: Kinnari
-site_url: https://kinnariyamamatanha.github.io
-site_description: Kinnari 的个人网站
-repo_url: https://github.com/KinnariyaMamaTanha/kinnariyamamatanha.github.io/
-repo_name: Kinnari's Site
-copyright: Copyright &copy; 2024 - Present <a href="https://github.com/KinnariyaMamaTanha/" target="_blank" rel="noopener">Kinnari</a>
+site_name: Tendourisu's Site
+site_author: Tendourisu
+site_url: https://tendourisu.github.io
+site_description: Tendourisu 的个人网站
+repo_url: https://github.com/Tendourisu/tendourisu.github.io/
+repo_name: Tendourisu's Site
+copyright: Copyright &copy; 2024 - Present <a href="https://github.com/Tendourisu/" target="_blank" rel="noopener">Tendourisu</a>
 
 theme:
   name: material
@@ -51,7 +51,7 @@ theme:
   font:
     text: JetBrains Mono
 
-  favicon: img/avatar1.png
+  favicon: img/aris.png
 
   icon:
     logo: material/coffee
@@ -169,7 +169,7 @@ extra_css:
 extra:
   social:
     - icon: /fontawesome/brands/github
-      link: https://github.com/kinnariyamamatanha/
+      link: https://github.com/Tendourisu/
       name: GitHub
     - icon: /fontawesome/brands/qq
       link: /img/qq.jpg
@@ -178,13 +178,13 @@ extra:
       link: /img/wechat.jpg
       name: 加加我的微信
     - icon: /fontawesome/brands/x-twitter
-      link: https://x.com/MamaTanha76294
+      link: https://x.com/tendourisu
       name: X
     - icon: /fontawesome/brands/zhihu
-      link: https://www.zhihu.com/people/Kinnariya
+      link: https://www.zhihu.com/people/tendourisu
       name: Zhihu
     - icon: fontawesome/solid/paper-plane
-      link: mailto:2823324228@qq.com
+      link: mailto:2681708668@qq.com
       name: send email to me!
     # - icon: fontawesome/solid/rss
     #   link: /feed_rss_created.xml
@@ -193,43 +193,61 @@ extra:
     #   link: /feed_rss_updated.xml
     #   name: RSS updatedfeed_rss_created.xml
 
-  analytics:
-    provider: google
-    property: G-20LWGZNLLR
-    feedback:
-      title: Support Me!
-      ratings:
-        - icon: fontawesome/regular/hand-back-fist
-          name: Support Me!
-          data: 1
-          note: >-
-            <center> 难道说……你愿意给我买一瓶快乐水吗！🫣 </center>
-            <center> How about...buy me a coffee？😋 </center>
-            <img src="https://cdn.jsdelivr.net/gh/KinnariyaMamaTanha/Images@images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2024-12-07_230055_143.png" width=200px>
+  # analytics:
+  #   provider: google
+  #   property: G-20LWGZNLLR
+  #   feedback:
+  #     title: Support Me!
+  #     ratings:
+  #       - icon: fontawesome/regular/hand-back-fist
+  #         name: Support Me!
+  #         data: 1
+  #         note: >-
+  #           <center> 难道说……你愿意给我买一瓶快乐水吗！🫣 </center>
+  #           <center> How about...buy me a coffee？😋 </center>
+  #           <img src="https://cdn.jsdelivr.net/gh/KinnariyaMamaTanha/Images@images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_2024-12-07_230055_143.png" width=200px>
 
 nav:
   - Home: index.md
   - Notes:
       - index: notes/index.md
       - CS61C:
-          - "1 Intro": notes/cs61c/1-intro.md
-          - "2 C Intro": notes/cs61c/2-c-intro.md
-          - "3 Floating Point": notes/cs61c/3-floating-point.md
-          - "4 RISC-V Basic": notes/cs61c/4-RISC-V.md
+          - "lec01-Intro": notes/cs61c/lec01-Intro.md
+          - "lec02-C基础1": notes/cs61c/lec02-C基础1.md
+          - "lec03-C基础2": notes/cs61c/lec03-C基础2.md
+          - "lec04-C基础3": notes/cs61c/lec04-C基础3.md
+          - "lec05-C浮点数基础": notes/cs61c/lec05-C浮点数基础.md
+          - "lec06-RISCV指令基础1": notes/cs61c/lec06-RISCV指令基础1.md
+          - "lec07-RISCV指令基础2": notes/cs61c/lec07-RISCV指令基础2.md
+          - "lec08-RISCV指令总结": notes/cs61c/lec08-RISCV指令总结.md
+          - "lec09-lec09-RISC-V汇编-编译-链接流程总结": notes/cs61c/lec09-RISC-V汇编-编译-链接流程总结.md
+          - "lec10-数字电路基础": notes/cs61c/lec10-数字电路基础.md
+          - "lec11-时序电路&模拟电路基础": notes/cs61c/lec11-时序电路&模拟电路基础.md
+          - "lec12-RISC-V处理器设计": notes/cs61c/lec12-RISC-V处理器设计.md
+          - "lec13-RISC-V的控制器实现与流水线入门": notes/cs61c/lec13-RISC-V的控制器实现与流水线入门.md
+          - "lec14-RISC-V 流水线与处理器": notes/cs61c/lec14-RISC-V 流水线与处理器.md
+          - "lec15-缓存系统": notes/cs61c/lec15-缓存系统.md
+          - "lec16-缓存系统总结": notes/cs61c/lec16-缓存系统总结.md
+          - "riscv代码习惯": notes/cs61c/riscv代码习惯.md
+      - easy-rl:
+          - "easy-rl-chapter1-强化学习基础": notes/easy-rl/easy-rl-chapter1-强化学习基础.md
+          - "easy-rl-chapter2-马尔科夫决策过程MDP": notes/easy-rl/easy-rl-chapter2-马尔科夫决策过程MDP.md
+          - "easy-rl-chapter3-表格型方法": notes/easy-rl/easy-rl-chapter3-表格型方法.md
+          - "easy-rl-chapter4-策略梯度": notes/easy-rl/easy-rl-chapter4-策略梯度.md
+          - "easy-rl-chapter5-近端策略优化PPO": notes/easy-rl/easy-rl-chapter5-近端策略优化PPO.md
+          - "easy-rl-chapter6-DQN": notes/easy-rl/easy-rl-chapter6-DQN.md
+          - "POMDP的一些参数说明": notes/easy-rl/POMDP的一些参数说明.md
+          - "RL入门汇总": notes/easy-rl/RL入门汇总.md
+          - "RLfromDeepSeek": notes/easy-rl/RLfromDeepSeek.md
+          - "王树森Reinforcement_Learning学习笔记": notes/easy-rl/王树森Reinforcement_Learning学习笔记.md
+      - CS231N:
+          - "cs231n": notes/cs231n/cs231n.md
   - Blogs:
       - index: blogs/index.md
   - Summaries:
       - index: summary/index.md
       - "2025":
-          - "一周总结与回顾-1": summary/2025/summary-1.md
-      - "2024":
-          - "一周总结与回顾-8": summary/2024/summary-8.md
-          - "一周总结与回顾-7": summary/2024/summary-7.md
-          - "一周总结与回顾-6": summary/2024/summary-6.md
-          - "一周总结与回顾-5": summary/2024/summary-5.md
-          - "一周总结与回顾-4": summary/2024/summary-4.md
-          - "一周总结与回顾-3": summary/2024/summary-3.md
-          - "一周总结与回顾-2": summary/2024/summary-2.md
+          - "2025-W08-02": summary/2025/2025-W08-02.md
   - Tags: tags/index.md
   - Links: links/index.md
   - About: about/index.md
