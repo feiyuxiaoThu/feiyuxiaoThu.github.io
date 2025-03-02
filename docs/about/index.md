@@ -24,13 +24,14 @@ icon: /fontawesome/solid/face-smile-wink
     ---
 
     我平时喜欢
+
     - 听音乐（以JPOP与ボーカロイド为主，~~[周榜](https://space.bilibili.com/12446725)每周必看~~）👍
     - 追~~ 新番 ~~老番📺
     - 看漫画（重度Yuri控，与yuri有关的插画，漫画都会有所关注，当然也欢迎向我推荐~~ 误 ~~）！😋
 
     ---
 
-    至于我的名字“Tendourisu”，来自于游戏“碧蓝档案”中的[天童爱丽丝](https://zh.moegirl.org.cn/zh-hans/%E5%A4%A9%E7%AB%A5%E7%88%B1%E4%B8%BD%E4%B8%9D)]的罗马音“Tendou Arisu”，~~但github上的名字已经被占用了，于是我删掉了一个A~~。拥有/创造一个形如爱丽丝一样的人形机器人是我的梦想。以及本站的icon也来自于al1s与kei（~~没错这里也有yuri~~）的光环的渐变融合。
+    至于我的名字“Tendourisu”，来自于游戏“碧蓝档案”中的[天童爱丽丝](https://zh.moegirl.org.cn/zh-hans/%E5%A4%A9%E7%AB%A5%E7%88%B1%E4%B8%BD%E4%B8%9D)的罗马音“Tendou Arisu”，~~但github上的名字已经被占用了，于是删去了一个A~~。以及本站的icon也来自于al1s与kei（~~没错这里也有yuri~~）的光环的渐变融合。
 
 === "English"
 
@@ -53,11 +54,12 @@ icon: /fontawesome/solid/face-smile-wink
     ---
 
     In my free time, I like to
+    
     - Listen to music (mainly JPOP and Vocaloid, ~~[weekly rankings](https://space.bilibili.com/12446725) are a must-watch every week~~) 👍
     - Watch anime (both new and old series) 📺
     - Read manga (I am a heavy Yuri fan and pay attention to illustrations and manga related to Yuri. Of course, you are also welcome to recommend some to me!) 😋
 
     ---
 
-    As for my name "Tendourisu," it comes from the game "Blue Archive" character [Tendou Arisu](https://zh.moegirl.org.cn/zh-hans/%E5%A4%A9%E7%AB%A5%E7%88%B1%E4%B8%BD%E4%B8%9D)'s romaji "Tendou Arisu," ~~but the name was already taken on GitHub, so I removed an 'A'~~. Owning/creating a humanoid robot like Arisu is my dream. The icon of this site also comes from the gradient fusion of the halos of al1s and kei (~~yes, there is also Yuri here~~).
+    As for my name "Tendourisu," it comes from the game "Blue Archive" character [Tendou Arisu](https://zh.moegirl.org.cn/zh-hans/%E5%A4%A9%E7%AB%A5%E7%88%B1%E4%B8%BD%E4%B8%9D)'s romaji "Tendou Arisu," ~~but the name was already taken on GitHub, so I removed an 'A'~~.  The icon of this site also comes from the gradient fusion of the halos of al1s and kei (~~yes, there is also Yuri here~~).
 

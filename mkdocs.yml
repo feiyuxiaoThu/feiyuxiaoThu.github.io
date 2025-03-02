@@ -228,6 +228,7 @@ nav:
           - "lec14-RISC-V 流水线与处理器": notes/cs61c/lec14-RISC-V 流水线与处理器.md
           - "lec15-缓存系统": notes/cs61c/lec15-缓存系统.md
           - "lec16-缓存系统总结": notes/cs61c/lec16-缓存系统总结.md
+          - "lec17-缓存总结": notes/cs61c/lec17-缓存总结.md
           - "riscv代码习惯": notes/cs61c/riscv代码习惯.md
       - easy-rl:
           - "easy-rl-chapter1-强化学习基础": notes/easy-rl/easy-rl-chapter1-强化学习基础.md
@@ -236,6 +237,7 @@ nav:
           - "easy-rl-chapter4-策略梯度": notes/easy-rl/easy-rl-chapter4-策略梯度.md
           - "easy-rl-chapter5-近端策略优化PPO": notes/easy-rl/easy-rl-chapter5-近端策略优化PPO.md
           - "easy-rl-chapter6-DQN": notes/easy-rl/easy-rl-chapter6-DQN.md
+          - "easy-rl-chapter7-DQN进阶技巧": notes/easy-rl/easy-rl-chapter7-DQN进阶技巧.md
           - "POMDP的一些参数说明": notes/easy-rl/POMDP的一些参数说明.md
           - "RL入门汇总": notes/easy-rl/RL入门汇总.md
           - "RLfromDeepSeek": notes/easy-rl/RLfromDeepSeek.md
@@ -248,6 +250,7 @@ nav:
       - index: summary/index.md
       - "2025":
           - "2025-W08-02": summary/2025/2025-W08-02.md
+          - "2025-W08-09": summary/2025/2025-W08-09.md
   - Tags: tags/index.md
   - Links: links/index.md
   - About: about/index.md
