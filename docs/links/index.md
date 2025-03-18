@@ -43,12 +43,12 @@ icon: /octicons/link-24
 </div>
 
 <div class="flink-list-item">
-    <a href="https://tendourisu.github.io/" title="Tendourisu" target="_blank">
+    <a href="https://kinnariyamamatanha.github.io/" title="Kinaari" target="_blank">
         <div class="flink-item-icon">
-            <img src="https://raw.githubusercontent.com/Tendourisu/images/master/aris.png" alt="Tendourisu">
+            <img src="https://raw.githubusercontent.com/KinnariyaMamaTanha/KinnariyaMamaTanha.github.io/refs/heads/main/overrides/img/avatar1.png" alt="Kinnari">
         </div>
-        <div class="flink-item-name heti-skip">Tendourisu's Blog</div>
-        <div class="flink-item-desc">え　わたし？</div>
+        <div class="flink-item-name heti-skip">Kinnari</div>
+        <div class="flink-item-desc">किन्नरिय मम तण्हा</div>
     </a>
 </div>
 
