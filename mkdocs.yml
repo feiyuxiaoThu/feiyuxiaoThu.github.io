@@ -252,7 +252,8 @@ nav:
       - index: summary/index.md
       - "2025":
           - "2025-W08-02": summary/2025/2025-W08-02.md
-          - "2025-W08-09": summary/2025/2025-W09-02.md
+          - "2025-W09-02": summary/2025/2025-W09-02.md
+          - "2025-W11-03": summary/2025/2025-W11-03.md
   - Tools:
       - Tools/index.md
       - Cheat Sheet:
