@@ -9,19 +9,6 @@ dir: dairy
 share: false
 cdate: " 2025-02-02 "
 mdate: " 2025-02-02"
----
-
-[Introduction — Spinning Up documentation](https://spinningup.openai.com/en/latest/user/introduction.html)  
-[# 强化学习（reinforcement learning)有什么好的开源项目、网站、文章推荐一下？](https://www.zhihu.com/question/49230922)  
-[# 强化学习-李宏毅-学习笔记<总>](https://zhuanlan.zhihu.com/p/344975862)  
-[GitHub - TianxingChen/Embodied-AI-Guide: 具身智能入门指南 Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide)   
-
-[GitHub - yunlongdong/Awesome-Embodied-AI](https://github.com/yunlongdong/Awesome-Embodied-AI)  
-[# Robotics+LLM系列通过大语言模型控制机器人](https://zhuanlan.zhihu.com/p/668053911)  
-[GitHub - dennybritz/reinforcement-learning: Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.](https://github.com/dennybritz/reinforcement-learning)  
-[cs.cornell.edu/courses/cs4756/2023sp/assets/slides\_notes/lec26\_slides.pdf](https://www.cs.cornell.edu/courses/cs4756/2023sp/assets/slides_notes/lec26_slides.pdf)  
-[蘑菇书EasyRL 第一章 强化学习基础](https://datawhalechina.github.io/easy-rl/#/chapter1/chapter1)  
-[王树森Reinforcement Learning学习笔记](https://zhuanlan.zhihu.com/p/10389734563)
 
 ---
 
