@@ -246,8 +246,6 @@ nav:
           - "王树森Reinforcement_Learning学习笔记": notes/easy-rl/王树森Reinforcement_Learning学习笔记.md
       - CS231N:
           - "cs231n": notes/cs231n/cs231n.md
-  - Blogs:
-      - index: blogs/index.md
   - Summaries:
       - index: summary/index.md
       - "2025":
@@ -302,6 +300,8 @@ nav:
       - AI:
           - Tools/AI/prompt.md
           - Tools/AI/prompt_writing.md
+      - Blog:
+          - Tools/Blog/Mkdocs_Material.md
       - Environment:
           - Tools/Environment/Arch_setup.md
           - Tools/Environment/Ubuntu_setup.md
@@ -316,8 +316,8 @@ nav:
           - Tools/Others/zotero_使用指南.md
       - Terminal:
           - Tools/Terminal/Tabby_Zsh.md
-  - Blog:
-    - Tools/Blog/Mkdocs_Material.md
+  - Blogs:
+    - index: blogs/index.md
   - Tags: tags/index.md
   - Links: links/index.md
   - About: about/index.md
