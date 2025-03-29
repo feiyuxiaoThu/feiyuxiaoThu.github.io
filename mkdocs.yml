@@ -302,8 +302,6 @@ nav:
       - AI:
           - Tools/AI/prompt.md
           - Tools/AI/prompt_writing.md
-      - Blog:
-          - Tools/Blog/Mkdocs_Material.md
       - Environment:
           - Tools/Environment/Arch_setup.md
           - Tools/Environment/Ubuntu_setup.md
@@ -318,6 +316,8 @@ nav:
           - Tools/Others/zotero_使用指南.md
       - Terminal:
           - Tools/Terminal/Tabby_Zsh.md
+  - Blog:
+    - Tools/Blog/Mkdocs_Material.md
   - Tags: tags/index.md
   - Links: links/index.md
   - About: about/index.md
