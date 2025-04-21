@@ -253,6 +253,7 @@ nav:
           - "2025-W09-02": summary/2025/2025-W09-02.md
           - "2025-W11-03": summary/2025/2025-W11-03.md
           - "2025-W12-03": summary/2025/2025-W12-03.md
+          - "2025-W16-04": summary/2025/2025-W16-04.md
   - Tools:
       - Tools/index.md
       - Cheat Sheet:
@@ -309,7 +310,7 @@ nav:
           - Tools/Environment/obsidian_setup.md
       - Make:
           - Tools/Make/CMake.md
-          - Tools/Make/Makeflie.md
+          - Tools/Make/Makeflie.md   
       - Others:
           - Tools/Others/Chezmoi.md
           - Tools/Others/SSH.md
