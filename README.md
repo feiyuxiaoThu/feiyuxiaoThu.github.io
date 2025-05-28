@@ -2,7 +2,7 @@
 
 This is my personal blog, built using [Hugo Toha](https://github.com/hugo-toha/toha).
 
-**Note:** My previous blog has been removed, but all my old posts are still available at [Old Blog Archive](https://github.com/FreeFlyingSheep/blog-old).
+**Note:** My previous blog has been removed, but all my old posts are still available at [Old Blog Archive](https://github.com/FishAndMeow/feiyuxiaoThu.github.io).
 
 ## License
 
