@@ -89,9 +89,9 @@ plugins:
       video_muted: True
       video_controls: True
       mark: "video"
-  - rss:
-      enabled: false
-      use_material_social_cards: false
+  # - rss:
+  #     enabled: false
+  #     use_material_social_cards: false
   - search
   - statistics:
       words_per_minute: 200
