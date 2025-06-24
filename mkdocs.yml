@@ -89,9 +89,20 @@ plugins:
       video_muted: True
       video_controls: True
       mark: "video"
-  # - rss:
-  #     enabled: !ENV [CI, false]
-  #     use_material_social_cards: false
+  - rss:
+      enabled: true
+      abstract_chars_count: 160
+      date_from_meta:
+        as_creation: date
+        as_update: modify
+      feed_ttl: 1440
+      categories:
+        - blogs
+        - notes
+        - summary
+        - tools
+      comments_path: "#comments"
+      use_material_social_cards: true
   - search
   - statistics:
       words_per_minute: 200
@@ -246,14 +257,14 @@ nav:
           - "王树森Reinforcement_Learning学习笔记": notes/easy-rl/王树森Reinforcement_Learning学习笔记.md
       - CS231N:
           - "cs231n": notes/cs231n/cs231n.md
-  - Summaries:
-      - index: summary/index.md
-      - "2025":
-          - "2025-W08-02": summary/2025/2025-W08-02.md
-          - "2025-W09-02": summary/2025/2025-W09-02.md
-          - "2025-W11-03": summary/2025/2025-W11-03.md
-          - "2025-W12-03": summary/2025/2025-W12-03.md
-          - "2025-W16-04": summary/2025/2025-W16-04.md
+  # - Summaries:
+  #     - index: summary/index.md
+  #     - "2025":
+  #         - "2025-W08-02": summary/2025/2025-W08-02.md
+  #         - "2025-W09-02": summary/2025/2025-W09-02.md
+  #         - "2025-W11-03": summary/2025/2025-W11-03.md
+  #         - "2025-W12-03": summary/2025/2025-W12-03.md
+  #         - "2025-W16-04": summary/2025/2025-W16-04.md
   - Tools:
       - Tools/index.md
       - Cheat Sheet:
