@@ -90,19 +90,8 @@ plugins:
       video_controls: True
       mark: "video"
   - rss:
-      enabled: true
-      abstract_chars_count: 160
-      date_from_meta:
-        as_creation: date
-        as_update: modify
-      feed_ttl: 1440
-      categories:
-        - blogs
-        - notes
-        - summary
-        - tools
-      comments_path: "#comments"
-      use_material_social_cards: true
+      enabled: false
+      use_material_social_cards: false
   - search
   - statistics:
       words_per_minute: 200
