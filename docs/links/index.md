@@ -49,4 +49,4 @@ icon: /octicons/link-24
 
 </div>
 
-<hr><p>在下方留言申请加入我的友链，按如下格式提供信息：</p><ul><li>名称：Tendourisu's Site</li><li>简介：え　わたし？？</li><li>链接：https://tendourisu.github.io/</li><li>图片：Link of your avatar</li></ul>
+<hr><p>在下方留言申请加入我的友链，按如下格式提供信息：</p><ul><li>名称：Tendourisu's Site</li><li>简介：え　わたし？？</li><li>链接：https://tendourisu.github.io/website</li><li>图片：Link of your avatar</li></ul>

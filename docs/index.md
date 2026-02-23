@@ -13,7 +13,7 @@ icon: material/home
 
 <h1 style="text-align: center;">
 <span style="font-size:50px;">
-Welcome to Tendourisu's Site! 🎉
+Welcome to Tendourisu's Webite! 🎉
 </span>
 </h1>
 

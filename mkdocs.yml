@@ -1,10 +1,10 @@
-site_name: Tendourisu's Site
+site_name: Tendourisu's Website
 site_author: Tendourisu
-site_url: https://tendourisu.github.io
+site_url: https://tendourisu.github.io/website
 site_description: Tendourisu 的个人网站
-repo_url: https://github.com/Tendourisu/tendourisu.github.io/
-repo_name: Tendourisu's Site
-copyright: Copyright &copy; 2024 - Present <a href="https://github.com/Tendourisu/" target="_blank" rel="noopener">Tendourisu</a>
+repo_url: https://github.com/Tendourisu/website
+repo_name: Tendourisu's Website
+copyright: Copyright &copy; 2026 - Present <a href="https://github.com/Tendourisu/" target="_blank" rel="noopener">Tendourisu</a>
 
 theme:
   name: material
