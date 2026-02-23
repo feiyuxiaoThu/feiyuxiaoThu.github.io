@@ -172,10 +172,10 @@ extra:
       link: https://github.com/Tendourisu/
       name: GitHub
     - icon: /fontawesome/brands/qq
-      link: /img/qq.jpg
+      link: img/qq.jpg
       name: 加加我的QQ
     - icon: /fontawesome/brands/weixin
-      link: /img/wechat.jpg
+      link: img/wechat.jpg
       name: 加加我的微信
     - icon: /fontawesome/brands/x-twitter
       link: https://x.com/tendourisu
