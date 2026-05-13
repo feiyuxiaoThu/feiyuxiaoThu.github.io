@@ -1,8 +1,11 @@
 mkdocs
 mkdocs-material
+pillow
+cairosvg
 mkdocs-glightbox
-mkdocs-statistics-plugin
+git+https://github.com/KinnariyaMamaTanha/mkdocs-statistics-plugin.git
 mkdocs-heti-plugin
+mkdocs-awesome-pages-plugin
 # mkdocs-include-dir-to-nav
 mkdocs-git-revision-date-localized-plugin
 rich # for mkdocs-toc-plugin
