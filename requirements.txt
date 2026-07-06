@@ -3,7 +3,7 @@ mkdocs-material
 pillow
 cairosvg
 mkdocs-glightbox
-git+https://github.com/KinnariyaMamaTanha/mkdocs-statistics-plugin.git
+mkdocs-statistics-plugin
 mkdocs-heti-plugin
 mkdocs-awesome-pages-plugin
 # mkdocs-include-dir-to-nav
