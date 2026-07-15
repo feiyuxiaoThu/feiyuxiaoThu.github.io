@@ -59,3 +59,24 @@ nav:
 如果必须使用本地图片：
 * 建议存放路径：`overrides/img/`。
 * 引用方式：`![描述](../../overrides/img/filename.png)`。
+
+## 6. 一键发布脚本
+
+仓库根目录的 `publish.sh` 可以让"写稿 → 预览 → 发布"一气呵成, 无需手动填 Front Matter 或敲 git 命令。
+
+1. **放稿**：把写好的 `.md` 文章放到仓库根目录的 `drafts/` 文件夹。
+   * 有 Front Matter（`---` 开头）会原样保留；没有则脚本按"首个 `# 标题` / 文件名"自动生成 `title`、`date`、`tags` 等。
+2. **本地预览**：
+   ```bash
+   ./publish.sh preview drafts/你的文章.md
+   ```
+   脚本会把文章放入 `docs/blogs/posts/` 并启动本地服务器 `http://127.0.0.1:8000`, 直接在浏览器查看效果。
+3. **发布上线**：
+   ```bash
+   ./publish.sh deploy drafts/你的文章.md
+   ```
+   脚本会自动生成/校验 Front Matter、移动到正式目录、提交并推送到 `main`, GitHub Actions 会重新构建站点。
+
+> 省略文件参数时, `preview` / `deploy` 会处理 `drafts/` 下**所有** `.md` 文件。
+>
+> 侧边栏已经是扁平结构（文章直接挂在 `Blogs` 下, 无 `posts` 子栏目）, 由 `docs/blogs/posts/.pages` 中的 `collapse: true` 控制。

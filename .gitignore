@@ -1,2 +1,4 @@
 .cache
 site
+drafts/
+.DS_Store
